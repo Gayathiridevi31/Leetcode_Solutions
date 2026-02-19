@@ -12,10 +12,12 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0125-valid-palindrome) |
 | [0696-count-binary-substrings](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0696-count-binary-substrings) |
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0125-valid-palindrome) |
 | [0696-count-binary-substrings](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0696-count-binary-substrings) |
 ## Linked List
 |  |
