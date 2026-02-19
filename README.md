@@ -17,4 +17,16 @@
 |  |
 | ------- |
 | [0696-count-binary-substrings](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0696-count-binary-substrings) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0002-add-two-numbers) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
