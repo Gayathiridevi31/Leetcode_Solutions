@@ -9,6 +9,7 @@
 | [0189-rotate-array](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0189-rotate-array) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0472-concatenated-words](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0472-concatenated-words) |
+| [0560-subarray-sum-equals-k](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 ## Hash Table
@@ -16,6 +17,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0242-valid-anagram) |
+| [0560-subarray-sum-equals-k](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0560-subarray-sum-equals-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -125,4 +127,8 @@
 |  |
 | ------- |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
