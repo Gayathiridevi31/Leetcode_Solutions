@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0054-spiral-matrix) |
 | [0189-rotate-array](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0189-rotate-array) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0472-concatenated-words](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0472-concatenated-words) |
@@ -129,10 +130,15 @@
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0054-spiral-matrix) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
