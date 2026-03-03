@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0054-spiral-matrix) |
+| [0088-merge-sorted-array](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0189-rotate-array) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0472-concatenated-words](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0472-concatenated-words) |
@@ -27,6 +28,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0088-merge-sorted-array](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0151-reverse-words-in-a-string) |
@@ -64,6 +66,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0242-valid-anagram) |
 | [0472-concatenated-words](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0472-concatenated-words) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
