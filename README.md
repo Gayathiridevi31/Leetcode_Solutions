@@ -25,6 +25,7 @@
 | [0001-two-sum](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0146-lru-cache) |
 | [0242-valid-anagram](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -57,6 +58,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0002-add-two-numbers) |
 | [0141-linked-list-cycle](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0146-lru-cache) |
 ## Math
 |  |
 | ------- |
@@ -174,4 +176,12 @@
 |  |
 | ------- |
 | [0046-permutations](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0046-permutations) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
