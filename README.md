@@ -12,6 +12,7 @@
 | [0189-rotate-array](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0189-rotate-array) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0403-frog-jump](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0403-frog-jump) |
+| [0435-non-overlapping-intervals](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0472-concatenated-words](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0472-concatenated-words) |
 | [0560-subarray-sum-equals-k](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -76,6 +77,7 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0242-valid-anagram) |
+| [0435-non-overlapping-intervals](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0472-concatenated-words](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0472-concatenated-words) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Dynamic Programming
@@ -84,6 +86,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0053-maximum-subarray) |
 | [0403-frog-jump](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0403-frog-jump) |
+| [0435-non-overlapping-intervals](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0472-concatenated-words](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0472-concatenated-words) |
 | [0509-fibonacci-number](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0509-fibonacci-number) |
 ## Depth-First Search
@@ -145,6 +148,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0435-non-overlapping-intervals](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0435-non-overlapping-intervals) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 ## Matrix
 |  |
