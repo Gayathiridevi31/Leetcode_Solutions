@@ -19,6 +19,7 @@
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1980-find-unique-binary-string](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/1980-find-unique-binary-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -30,6 +31,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1980-find-unique-binary-string](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/1980-find-unique-binary-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -54,6 +56,7 @@
 | [0472-concatenated-words](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0472-concatenated-words) |
 | [0696-count-binary-substrings](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0696-count-binary-substrings) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [1980-find-unique-binary-string](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/1980-find-unique-binary-string) |
 ## Linked List
 |  |
 | ------- |
@@ -178,6 +181,7 @@
 |  |
 | ------- |
 | [0046-permutations](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0046-permutations) |
+| [1980-find-unique-binary-string](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/1980-find-unique-binary-string) |
 ## Design
 |  |
 | ------- |
