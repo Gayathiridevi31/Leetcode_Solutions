@@ -10,6 +10,7 @@
 | [0054-spiral-matrix](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0054-spiral-matrix) |
 | [0088-merge-sorted-array](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0189-rotate-array) |
+| [0303-range-sum-query-immutable](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0403-frog-jump](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0403-frog-jump) |
 | [0435-non-overlapping-intervals](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0435-non-overlapping-intervals) |
@@ -168,6 +169,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Simulation
@@ -188,6 +190,7 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0146-lru-cache) |
+| [0303-range-sum-query-immutable](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0303-range-sum-query-immutable) |
 ## Doubly-Linked List
 |  |
 | ------- |
