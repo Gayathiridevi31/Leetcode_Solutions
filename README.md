@@ -77,6 +77,7 @@
 | [0189-rotate-array](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0523-continuous-subarray-sum) |
+| [1622-fancy-sequence](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/1622-fancy-sequence) |
 ## Recursion
 |  |
 | ------- |
@@ -132,6 +133,7 @@
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [1622-fancy-sequence](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/1622-fancy-sequence) |
 ## Merge Sort
 |  |
 | ------- |
@@ -195,6 +197,7 @@
 | ------- |
 | [0146-lru-cache](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0146-lru-cache) |
 | [0303-range-sum-query-immutable](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0303-range-sum-query-immutable) |
+| [1622-fancy-sequence](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/1622-fancy-sequence) |
 ## Doubly-Linked List
 |  |
 | ------- |
