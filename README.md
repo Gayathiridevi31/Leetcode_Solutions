@@ -73,6 +73,7 @@
 | [0002-add-two-numbers](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0002-add-two-numbers) |
 | [0141-linked-list-cycle](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0146-lru-cache) |
+| [0445-add-two-numbers-ii](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0445-add-two-numbers-ii) |
 ## Math
 |  |
 | ------- |
@@ -81,6 +82,7 @@
 | [0060-permutation-sequence](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0060-permutation-sequence) |
 | [0067-add-binary](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0189-rotate-array) |
+| [0445-add-two-numbers-ii](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0445-add-two-numbers-ii) |
 | [0509-fibonacci-number](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0523-continuous-subarray-sum) |
 | [1622-fancy-sequence](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/1622-fancy-sequence) |
@@ -229,4 +231,8 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+## Stack
+|  |
+| ------- |
+| [0445-add-two-numbers-ii](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0445-add-two-numbers-ii) |
 <!---LeetCode Topics End-->
