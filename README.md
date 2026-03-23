@@ -8,6 +8,7 @@
 | [0046-permutations](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0054-spiral-matrix) |
+| [0074-search-a-2d-matrix](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0209-minimum-size-subarray-sum) |
@@ -125,6 +126,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0209-minimum-size-subarray-sum](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -178,6 +180,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0054-spiral-matrix) |
+| [0074-search-a-2d-matrix](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0074-search-a-2d-matrix) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/3643-flip-square-submatrix-vertically) |
