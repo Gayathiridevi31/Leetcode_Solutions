@@ -10,6 +10,7 @@
 | [0054-spiral-matrix](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0054-spiral-matrix) |
 | [0088-merge-sorted-array](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0303-range-sum-query-immutable](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
@@ -123,6 +124,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 ## Divide and Conquer
 |  |
@@ -180,6 +182,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0523-continuous-subarray-sum](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -211,6 +214,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Heap (Priority Queue)
 |  |
