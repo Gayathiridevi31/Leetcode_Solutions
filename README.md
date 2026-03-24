@@ -9,6 +9,7 @@
 | [0053-maximum-subarray](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0209-minimum-size-subarray-sum) |
@@ -176,6 +177,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0078-subsets) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Counting
 |  |
@@ -216,6 +218,7 @@
 |  |
 | ------- |
 | [0046-permutations](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0046-permutations) |
+| [0078-subsets](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0078-subsets) |
 | [1980-find-unique-binary-string](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/1980-find-unique-binary-string) |
 ## Design
 |  |
