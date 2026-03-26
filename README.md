@@ -11,6 +11,7 @@
 | [0074-search-a-2d-matrix](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
+| [0134-gas-station](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0134-gas-station) |
 | [0189-rotate-array](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -194,6 +195,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0134-gas-station](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0134-gas-station) |
 | [0435-non-overlapping-intervals](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0435-non-overlapping-intervals) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 ## Matrix
