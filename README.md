@@ -67,6 +67,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0472-concatenated-words](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0472-concatenated-words) |
 | [0696-count-binary-substrings](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0696-count-binary-substrings) |
+| [1143-longest-common-subsequence](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/1143-longest-common-subsequence) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1980-find-unique-binary-string](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/1980-find-unique-binary-string) |
 ## Linked List
@@ -114,6 +115,7 @@
 | [0435-non-overlapping-intervals](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0472-concatenated-words](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0472-concatenated-words) |
 | [0509-fibonacci-number](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0509-fibonacci-number) |
+| [1143-longest-common-subsequence](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/1143-longest-common-subsequence) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Depth-First Search
 |  |
