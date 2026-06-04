@@ -8,6 +8,7 @@
 | [0011-container-with-most-water](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0031-next-permutation) |
 | [0046-permutations](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0073-set-matrix-zeroes) |
@@ -91,6 +92,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0048-rotate-image) |
 | [0060-permutation-sequence](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0060-permutation-sequence) |
 | [0067-add-binary](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0189-rotate-array) |
@@ -210,6 +212,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0074-search-a-2d-matrix) |
