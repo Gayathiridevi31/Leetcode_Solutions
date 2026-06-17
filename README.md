@@ -41,6 +41,7 @@
 | [0001-two-sum](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0073-set-matrix-zeroes) |
+| [0076-minimum-window-substring](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0146-lru-cache) |
 | [0242-valid-anagram](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0242-valid-anagram) |
@@ -70,6 +71,7 @@
 | [0008-string-to-integer-atoi](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0067-add-binary) |
+| [0076-minimum-window-substring](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0151-reverse-words-in-a-string) |
@@ -258,6 +260,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Heap (Priority Queue)
