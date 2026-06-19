@@ -74,6 +74,7 @@
 | [0008-string-to-integer-atoi](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0014-longest-common-prefix) |
+| [0044-wildcard-matching](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0072-edit-distance) |
@@ -114,6 +115,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0002-add-two-numbers) |
+| [0044-wildcard-matching](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0044-wildcard-matching) |
 | [0060-permutation-sequence](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0060-permutation-sequence) |
 | [0509-fibonacci-number](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0509-fibonacci-number) |
 ## Sorting
@@ -130,6 +132,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0044-wildcard-matching](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0053-maximum-subarray) |
 | [0072-edit-distance](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0115-distinct-subsequences) |
@@ -219,6 +222,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0011-container-with-most-water) |
+| [0044-wildcard-matching](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0044-wildcard-matching) |
 | [0134-gas-station](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0134-gas-station) |
 | [0435-non-overlapping-intervals](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0435-non-overlapping-intervals) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
