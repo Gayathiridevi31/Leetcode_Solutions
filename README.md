@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0014-longest-common-prefix) |
 | [0031-next-permutation](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0031-next-permutation) |
 | [0046-permutations](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0048-rotate-image) |
@@ -72,6 +73,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0076-minimum-window-substring) |
@@ -148,6 +150,7 @@
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0014-longest-common-prefix) |
 | [0472-concatenated-words](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0472-concatenated-words) |
 ## Memoization
 |  |
