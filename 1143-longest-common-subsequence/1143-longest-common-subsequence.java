@@ -3,9 +3,9 @@ class Solution {
         int n=text1.length();
         int m=text2.length();
         int[][] dp=new int[n+1][m+1];
-        for(int i=1;i<=n;i++)
+        for(int i=1;i<=text1.length();i++)
         {
-            for(int j=1;j<=m;j++)
+            for(int j=1;j<=text2.length();j++)
             {
                 if(text1.charAt(i-1)==text2.charAt(j-1))
                 {
@@ -19,5 +19,4 @@ class Solution {
         return dp[n][m];
         
     }
-
 }
