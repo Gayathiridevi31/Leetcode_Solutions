@@ -76,6 +76,7 @@
 | [0014-longest-common-prefix](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0067-add-binary) |
+| [0072-edit-distance](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0125-valid-palindrome) |
@@ -130,6 +131,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0053-maximum-subarray) |
+| [0072-edit-distance](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0403-frog-jump](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0403-frog-jump) |
