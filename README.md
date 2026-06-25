@@ -29,6 +29,7 @@
 | [0472-concatenated-words](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0472-concatenated-words) |
 | [0523-continuous-subarray-sum](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0994-rotting-oranges](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -244,6 +245,7 @@
 | [0303-range-sum-query-immutable](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0523-continuous-subarray-sum](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Simulation
 |  |
