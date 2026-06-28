@@ -10,8 +10,8 @@ class Solution {
         int suffix=1;
         for(int i=n-1;i>=0;i--)
         {
-        ans[i]=suffix*ans[i];
-        suffix=suffix*nums[i];
+            ans[i]=suffix*ans[i];
+            suffix=suffix*nums[i];
         }
         return ans;
         
