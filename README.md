@@ -22,6 +22,7 @@
 | [0189-rotate-array](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
@@ -49,6 +50,7 @@
 | [0076-minimum-window-substring](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0146-lru-cache) |
+| [0217-contains-duplicate](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0523-continuous-subarray-sum](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0523-continuous-subarray-sum) |
@@ -126,6 +128,7 @@
 | [0049-group-anagrams](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0242-valid-anagram) |
 | [0435-non-overlapping-intervals](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0472-concatenated-words](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0472-concatenated-words) |
