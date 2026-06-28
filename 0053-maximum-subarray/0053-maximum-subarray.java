@@ -3,14 +3,14 @@ class Solution {
         int n=nums.length;
         int currentsum=0;
         int maxsum=Integer.MIN_VALUE;
-        for(int i=0;i<n;i++)
+        for(int num:nums)
         {
-           currentsum+=nums[i];
-           maxsum=Math.max(maxsum,currentsum);
-           if(currentsum<0)
-           {
-            currentsum=0;
-           }
+            currentsum+=num;
+            maxsum=Math.max(maxsum,currentsum);
+            if(currentsum<0)
+            {
+                currentsum=0;
+            }
         }
         return maxsum;
         
