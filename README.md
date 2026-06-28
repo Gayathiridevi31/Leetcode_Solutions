@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0031-next-permutation) |
 | [0046-permutations](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0048-rotate-image) |
@@ -62,6 +63,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0125-valid-palindrome) |
@@ -125,6 +127,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Gayathiridevi31/Leetcode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
